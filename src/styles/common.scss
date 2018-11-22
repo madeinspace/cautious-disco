@@ -1,0 +1,120 @@
+body {
+  font-family: 'Myriad-Pro';
+}
+h2 {
+  font-size: 36pt;
+}
+.home {
+  background-image: url('../media/hero.jpg');
+  margin-top: 8px;
+  height: 496px;
+}
+
+.title_text {
+  padding-top: 110px;
+  display: flex;
+  justify-content: space-around;
+  color: #eaeaea;
+}
+
+.home_p {
+  max-width: 960px;
+  text-align: center;
+}
+
+.focus_title {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  color: #eaeaea;
+}
+
+.focus {
+  background-color: #173b43;
+}
+
+.focus_text {
+  font-size: 18pt;
+  display: flex;
+  justify-content: space-around;
+  color: #eaeaea;
+}
+
+.focus_p {
+  max-width: 960px;
+  text-align: center;
+}
+
+.focus_sec {
+  text-align: center;
+}
+
+.focus_img {
+  width: 120px;
+  height: 120px;
+}
+.focus_sec_title {
+  font-size: 24pt;
+  color: #eaeaea;
+}
+
+.focus_sec_text {
+  font-family: 'Skolar-Sans-Latin';
+  font-size: 16pt;
+  font-weight: 'Semi-Bold';
+  color: #eaeaea;
+}
+
+.solution {
+  background-color: #eaeaea;
+}
+
+.carosel_title {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  color: #173b43;
+}
+.carousel_line {
+  display: flex;
+  justify-content: space-around;
+  max-width: 980px;
+  border-bottom: #173b43 solid 3px;
+}
+.carousel_text_div {
+  display: flex;
+  justify-content: space-around;
+  max-width: 960px;
+}
+
+.carousel-text {
+  text-align: left;
+  min-width: 420px;
+  padding: 5px;
+}
+.team_row {
+  justify-content: space-around;
+}
+
+.partnership {
+  background-color: #173b43;
+  text-align: center;
+}
+
+.roadmap {
+  background-color: #eaeaea;
+}
+.roadmap h2 {
+  color: #173b43;
+}
+.marketing {
+  background-color: #173b43;
+}
+.footer {
+  background-color: #eaeaea;
+  color: #173b43;
+}
+
+.footer h2 {
+  color: #173b43;
+}
